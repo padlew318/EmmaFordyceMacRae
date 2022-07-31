@@ -1,0 +1,183 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color: #e9ead3;
+	color:#ccc;
+	font:12px Georgia, Arial, sans-serif;
+	}
+	#floatMenu {
+		position:absolute;
+		top:120px;
+		margin-left:-195px;
+		width:195px;
+			border:1px solid #444;
+		}
+		#floatMenu ul {
+			margin-bottom:0px;
+			}
+			#floatMenu ul li a {
+				display:block;
+				border:1px solid #999;
+				background-color:#5391aa;
+				border-left:6px solid #999;
+				text-decoration:none;
+				color:#ccc;
+				padding:5px 5px 5px 5px;
+			}
+			#floatMenu ul li a:hover {
+				color:#fff;
+				background-color:#333333;
+			}
+			#floatMenu ul.menu1 li a:hover {
+				border-color:#37628f;
+			}
+			#floatMenu ul  ul{
+			margin-bottom:0px;
+			}
+			#floatMenu ul ul li a {
+				display:block;
+				border:1px solid #999;
+				background-color:#5391aa;
+				border-left:20px solid #999;
+				text-decoration:none;
+				color:#ccc;
+				padding:5px 5px 5px 10px;
+			}
+			#floatMenu ul ul li a:hover {
+				color:#fff;
+				background-color:#333333;
+			}
+			#floatMenu ul ul.menu2 li a:hover {
+				border-color:#37628f;
+			}
+	#global{
+	width:1000px;
+	margin:5px auto;
+	background-color: #e9ead3;
+	color: #37608f;
+	font-family:"Lucida Grande", "Lucida Sans", "Trebuchet MS", verdana, sans-serif;
+	}		
+#page-wrap{
+	margin-left:200px;
+	width:800px;
+	}
+	#page-wrap #header{
+		background-color: #e9ead3;
+		background-image: url(http://emmafordycemacrae.com/images/hd_1.2.gif);
+		background-repeat:repeat-x;
+		padding-top:20px;
+		padding-bottom:30px;
+			border-right:1px solid #444;
+	border-left:1px solid #444;border-top:1px solid #444;
+		}
+		#page-wrap #header h1{
+			margin-left:35px;
+			font-size:2.4em;
+			font-weight: bold;
+			margin-bottom:5px;
+			line-height:0.9em;
+			color: #37608f;
+			}
+		#page-wrap #header h2{
+			margin-left:45px;
+			font-size:1.7em;
+			color: #37608f;
+			}
+	#page-wrap #content{
+		background-color:#F5F5EB;
+		padding-top:30px;
+			border-right:1px solid #444;
+	border-left:1px solid #444;
+		}
+		#page-wrap #content h1{
+			margin-left:35px;
+			font-size:2em;
+			margin-bottom:10px;
+		}
+		#page-wrap #content p{
+			margin-left:35px;
+			width:720px;
+			text-align:justify;
+			margin-bottom:25px;
+			line-height:1.5em;
+			}
+		#page-wrap #content p.span{
+			font-size:1.2em;
+			font-weight:bold;
+			}
+	#page-wrap #footer{
+		background-color:#5391aa;
+			border-right:1px solid #444;
+	border-left:1px solid #444;border-bottom:1px solid #444;
+		}
+		#page-wrap #footer p{
+			width:auto;
+			margin:auto;
+			text-align:center;
+			font-size:0.9em;
+			padding:5px 0 0 0;
+			}
+			#page-wrap #footer a:link{
+				color:#09f;
+				}
+			#page-wrap #footer a:visited{
+				text-decoration:none;
+				}
+			#page-wrap #footer a:hover{
+				color:#0f9;
+				}
+			#page-wrap #footer a:active{
+				color:#f90;
+				}
+	#map{float:left;width: 579px; height: 600px; border-top:3px solid #5391AA; border-left:3px solid #5391AA; border-bottom:3px solid #5391AA; margin-left:35px}
+	#mapbar{float:right; width: 168px; height: 600px; text-align:center;border-top:3px solid #5391AA;border-bottom:3px solid #5391AA;border-right:3px solid #5391AA;  background-color:#99B3CC;margin-right:10px;}
+#mapbar a {
+	outline: none; TEXT-DECORATION: none
+}
+#mapbar a:hover {
+	TEXT-DECORATION: underline
+}
+#mapbar a:focus {
+	TEXT-DECORATION: none
+}
+#mapbutton  {width: 160px; height: 20px; background:#FFEE79; margin:3px 3px 3px 3px; padding-top:5px; border:#37608F 1px solid}
+		#body a:link,
+		#body a:visited {
+			color: #37608F; TEXT-DECORATION: none
+		}
+
+#navigation{background-color: #5391aa;			border:1px solid #37628f;} 
+#navigation ul{list-style:none;margin:0;padding:0;}
+#navigation ul a{text-decoration:none !important;}
+ul#mainNav li.active a:hover{cursor:default;}
+		#navigation{overflow:hidden;zoom:1}
+ul#mainNav{overflow:hidden;width:704px;margin:0 auto}
+ul#mainNav li,ul#mainNav li a{float:left;white-space:nowrap}
+ul#mainNav li a{_zoom:1;display:block;padding:7px 9px 5px 9px}
+		ul#mainNav li a:link,
+		ul#mainNav li a:visited {
+			font-family: Helvetica, Arial, sans-serif;
+			color: #ffffff;
+			font-size: 1.0em;
+			font-weight: bold;
+		}
+
+
+		#mainNav {
+			background-color: #5391aa;
+		}
+				#navigation ul#mainNav li.active a {
+			background-color:#37628f;
+		}
+
+		ul#mainNav li a:hover,
+		ul#mainNav li a:active,
+		ul#mainNav li a:focus {
+			background-color: #37628f;
+		}
+
+		ul#mainNav li.active {
+			border:1px inset #37628f;
+			border-bottom:0;
+			border-top:0;
+		}
