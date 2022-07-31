@@ -129,14 +129,8 @@
     <hr />
    
 </div> <!-- /container -->
-
+<script type="text/javascript" src="<?php echo $base_url; ?>_js/halfmoon_beach.js"></script>
 <!-- FOOTER -->
 <?php
-require ('../_includes/bs_footer.1.php');
-?>
-
-<script type="text/javascript" src="<?php echo $base_url; ?>_js/halfmoon_beach.js"></script>
-
-<?php
-require ('../_includes/bs_footer.2.php');
+require ('../_includes/bs_footer.php');
 ?>

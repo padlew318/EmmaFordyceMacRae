@@ -122,13 +122,9 @@
    
 </div> <!-- /container -->
 
-<!-- FOOTER -->
-<?php
-require ('../_includes/bs_footer.1.php');
-?>
-
 <script type="text/javascript" src="<?php echo $base_url; ?>_js/white_boat.js"></script>
 
+<!-- FOOTER -->
 <?php
-require ('../_includes/bs_footer.2.php');
+require ('../_includes/bs_footer.php');
 ?>

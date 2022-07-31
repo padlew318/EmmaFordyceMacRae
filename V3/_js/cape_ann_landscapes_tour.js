@@ -1,39 +1,3 @@
-/*                   if (GBrowserIsCompatible()) {
-  
-                  var point = new GLatLng(42.67625,-70.620);
-                  var marker = createMarker(point,'5 - Pigeon Cove','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/pigeon_cove.php"><img src="https://www.emmafordycemacrae.com/images/11_-_Pigeon_Cove_-_425.17480635_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/pigeon_cove.php"> more . . . <a><\/div>', five)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.65991,-70.61608);
-                  var marker = createMarker(point,'6 - Rockport Beach','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/rockport_beach.php"><img src="https://www.emmafordycemacrae.com/images/12_-_Rockport_Beach_-_721.17480856_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/rockport_beach.php"> more . . . <a><\/div>', six)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.608,-70.66423);
-                  var marker = createMarker(point,'7 - White Boat','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/white_boat.php"><img src="https://www.emmafordycemacrae.com/images/01_-_White_Boat_-_E06.17481129_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/white_boat.php"> more . . . <a><\/div>', seven)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.6115,-70.669);
-                  var marker = createMarker(point,'8 - Main Street','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/main_street.php"><img src="https://www.emmafordycemacrae.com/images/02_Main_St_Gloucester_WM.17790128_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/main_street.php"> more . . . <a><\/div>', eight)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.6050,-70.677);
-                  var marker = createMarker(point,'9 - Half Moon Beach','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/halfmoon_beach.php"><img src="https://www.emmafordycemacrae.com/images/03_Half_Moon_Beach_WM.17790436_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/halfmoon_beach.php"> more . . . <a><\/div>', nine)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.6040,-70.68878);
-                  var marker = createMarker(point,'10 - Stage Fort Park','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/stage_fort_park.php"><img src="https://www.emmafordycemacrae.com/images/04_Stage_Fort_Park_WM.17791622_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/stage_fort_park.php"> more . . . <a><\/div>', ten)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.6040,-70.683);
-                  var marker = createMarker(point,'11 - Gloucester Garden','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/gloucester_garden.php"><img src="https://www.emmafordycemacrae.com/images/05_-_Gloucester_Garden_-_937.17481949_sq_thumb_m.jpg" width=150 height=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/gloucester_garden.php"> more . . . <a><\/div>', eleven)
-                  map.addOverlay(marker);
-
-                  var point = new GLatLng(42.6154,-70.6650);
-                  var marker = createMarker(point,'12 - Cape Ann Museum','<div style="width:250px;background-color:#ffffcc;text-align:center; font-family:cursive; padding:3px 3px; border:solid 3px black;"><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/cape_ann_museum.php"><img src="https://www.emmafordycemacrae.com/images/06_New_England_Swimmers.jpg" width=150><\/a><br><a href="https://www.emmafordycemacrae.com/artwork/cape_ann_landscape_tour/cape_ann_museum.php"> more . . . <a><\/div>', twelve)
-                  map.addOverlay(marker);                      
-                       
-                  } 
- */
          
 // Initialize and add the map
 function initMap() {
@@ -48,12 +12,39 @@ function initMap() {
     // The markers
     const label1 = "1";
     const newengland = { lat: 42.6334, lng: -70.6777 };
+
     const label2 = "2";
     const hodgekinscove = { lat: 42.6693, lng: -70.6676 };
+
     const label3 = "3";
     const newenglanbeach = { lat: 42.6795, lng: -70.6591 };
+
     const label4 = "4";
     const fishermen = { lat: 42.67625, lng: -70.626 };
+
+    const label5 = "5";
+    const pigeoncove = { lat: 42.67625, lng: -70.620 };
+
+    const label6 = "6";
+    const rockportbeach = { lat: 42.65991, lng: -70.61608 };
+
+    const label7 = "7";
+    const whiteboat = { lat: 42.608, lng: -70.66423 };
+
+    const label8 = "8";
+    const mainstreet = { lat: 42.6115, lng: -70.669 };
+
+    const label9 = "9";
+    const halfmoonbeach = { lat: 42.6050, lng: -70.677 };
+
+    const label10 = "10";
+    const stagefortpark = { lat: 42.6040, lng: -70.68878 };
+
+    const label11 = "11";
+    const gloucestergarden = { lat: 42.6040, lng: -70.683 };
+
+    const label12 = "12";
+    const capeannmuseum = { lat: 42.6154, lng: -70.6650 };
 
     const marker1 = new google.maps.Marker({
       position: newengland,
@@ -81,6 +72,62 @@ function initMap() {
       map: map,
       label: label4,
       title:"Fishermen"
+    });
+
+    const marker5 = new google.maps.Marker({
+        position: pigeoncove,
+        map: map,
+        label: label5,
+        title: "Pigeon Cove"
+    });
+
+    const marker6 = new google.maps.Marker({
+        position: rockportbeach,
+        map: map,
+        label: label6,
+        title: "Rockport Beach"
+    });
+
+    const marker7 = new google.maps.Marker({
+        position: whiteboat,
+        map: map,
+        label: label7,
+        title: "White Boat"
+    });
+
+    const marker8 = new google.maps.Marker({
+        position: mainstreet,
+        map: map,
+        label: label8,
+        title: "Main Street"
+    });
+
+    const marker9 = new google.maps.Marker({
+        position: halfmoonbeach,
+        map: map,
+        label: label9,
+        title: "Half Moon Beach"
+    });
+
+    const marker10 = new google.maps.Marker({
+        position: stagefortpark,
+        map: map,
+        label: label10,
+        title: "Stage Fort Park"
+    });
+
+    const marker11 = new google.maps.Marker({
+        position: gloucestergarden,
+        map: map,
+        label: label11,
+        title: "Gloucester Garden"
+    });
+
+    const marker12 = new google.maps.Marker({
+        position: capeannmuseum,
+        map: map,
+        label: label12,
+        title: "Cape Ann Museum"
     });
 
   }

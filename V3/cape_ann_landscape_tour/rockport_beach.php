@@ -126,10 +126,7 @@
    
 </div> <!-- /container -->
 
-<!-- FOOTER -->
-<?php
-require ('../_includes/bs_footer.1.php');
-?>
+
 <script type="text/javascript">
 
                   if (GBrowserIsCompatible()) {
@@ -165,6 +162,8 @@ require ('../_includes/bs_footer.1.php');
                   }
 
                   </script>
+
+<!-- FOOTER -->
 <?php
-require ('../_includes/bs_footer.2.php');
+require ('../_includes/bs_footer.php');
 ?>

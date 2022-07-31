@@ -3,7 +3,7 @@
     <!-- Topper -->
 <div class="topper">
 <div class="container">
-    <a href="<?php echo $base_url; ?>cape_ann_landscape_tour/">
+    <a href="<?php echo $base_url; ?>more/about_the_artist.php">
         <h1> Emma Fordyce MacRae <i class="fa fa-paint-brush"></i> </h1>
     </a>
     

@@ -132,10 +132,6 @@
    
 </div> <!-- /container -->
 
-<!-- FOOTER -->
-<?php
-require ('../_includes/bs_footer.1.php');
-?>
 <script type="text/javascript">
 
                   if (GBrowserIsCompatible()) {
@@ -170,6 +166,8 @@ else {
     alert("Sorry, the Google Maps API is not compatible with this browser");
 }
 </script>
+
+<!-- FOOTER -->
 <?php
-require ('../_includes/bs_footer.2.php');
+require ('../_includes/bs_footer.php');
 ?>
