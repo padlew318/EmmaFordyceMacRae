@@ -1,0 +1,23 @@
+#nav, #nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none; 
+	background: #E5F4F7;
+}
+	#nav a {
+    display: block;line-height:2;
+    width: 100px;
+	color: #07539E;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    background: #E5F4F7;
+	FONT-FAMILY: Arial;
+		text-align: center;
+}
+#nav a:hover {
+  color: #E5F4F7; background: #07539E;line-height:2;
+}
+#nav li {
+    float: left;
+	}
