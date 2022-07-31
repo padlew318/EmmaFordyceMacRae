@@ -1,0 +1,259 @@
+/****************************************
+Theme: Riverside - Derived From: Portland
+****************************************/
+/* START -> DO NOT EDIT THIS SECTION */
+/* MIN-HEIGHT FOR THEME ELEMENTS (555px before #ft) */
+#hd{min-height:72px;_height:72px}
+#bd{min-height:370px;_height:370px}
+/* STRUCTURE -------- */
+/* to keep things going to the left of the viewport (and the ribbon in IE)  */
+#body{min-width:710px;zoom:1;width:expression(documentElement.clientWidth < 710 ? "710px" : "auto" )}
+#doc{overflow:hidden;zoom:1;}
+/* collapsing margin */
+#hd{padding-bottom:1px}
+#hContent{width:700px;margin:0 auto;padding:30px 0 20px 0}
+#hMisc{display:none}
+#navigation{overflow:hidden;zoom:1}
+ul#mainNav{overflow:hidden;width:704px;margin:0 auto}
+ul#mainNav li,ul#mainNav li a{float:left;white-space:nowrap}
+ul#mainNav li a{_zoom:1;display:block;padding:7px 9px 5px 9px}
+#bd{clear:left;float:left;width:677px;position:relative;left:50%;padding:10px 13px 10px 10px;				margin:20px 0 20px -352px;display:inline}
+#pageName{padding:10px 2px 0 2px;display:none}
+.modWrap{padding:0 2px;}
+#body h3{margin-bottom:5px}
+#body h4{margin-bottom:0}
+#zB #mapZone{width:314px;height:205px}
+#zB #drivingDirectionsLnk{top:210px}
+#zC form#contactForm{width:170px}
+#ft{padding:25px 0 15px 0}
+#fContent{float:left;width:380px;position:relative;left:50%;margin-left:-40px;display:inline}
+#fMisc{float:left;width:270px;margin-left:-680px;left:50%;display:inline}
+/* FIXES ----------- */
+/* Firefox would misplace #fMisc when #fContent is empty */
+#fContent:after{content:".";visibility:hidden}
+/* fix a major issue with the RTE: see bugs #1246572,#1246627,#1246700 */
+#body #pageName,#body #zA{_height:10px;}
+/* END -> FIXES: DO NOT EDIT */
+/* BADGES ------------- */
+#fBadges {width:680px;margin-left:auto;margin-right:auto;}
+/* END -> DO NOT EDIT THIS SECTION */
+
+
+/* START -> CUSTOMIZATION SECTION */
+
+/* TYPOGRAPHY --------- */
+
+		/* User-Editable Body */
+		
+		#body {
+			color: #252525;
+			font-size: 12px;
+			font-family: Georgia, Arial, sans-serif;
+		}
+
+		/* p Normal */
+		
+		p {
+		}		
+
+		/* hr Horizontal Rule */
+		
+		hr {
+		}		
+
+		/* H1 Site Title */
+
+		#body h1 {
+			color: #37608f;
+			font-size: 32px;
+			font-weight: bold;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+
+		/* Page Title */
+
+		#pageName {
+			text-align: right;
+		}
+
+		/* H2 Page Title */
+
+		#body h2 {
+			font-size: 23px;
+			font-weight: bold;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+
+		/* H3 Paragraph Title */
+
+		#body h3 {
+			font-family: Helvetica, Arial, sans-serif;
+			font-size: 18px;
+			font-weight: bold;
+		}
+
+		/* H4 Paragraph Subtitle */
+
+		#body h4 {
+			font-size: 12px;
+			font-weight: bold;
+		}
+
+		/* headings color */
+
+		#body h2 {
+			color: #37608f;
+		}
+
+		#body #zA h3 {
+			color: #375f90;
+		}
+
+		#body #zB h3 {
+			color: #d2771a;
+		}
+
+		#body #zC h3 {
+			color: #706d8a;
+		}
+
+		#body h4 {
+			color: #386390;
+		}
+
+		/* Header */
+
+		#hd {
+	
+		}
+
+		/* Footer */
+
+		#ft {
+			color: #fff;
+		}
+
+		/* Contact Info */
+
+		#hMisc,
+		#fMisc {
+
+		}
+
+		/* Footer Content */
+		
+		#fContent {
+			font-size: 11px;
+		}
+
+/* LINKS ------------ */
+
+		#body a:link,
+		#body a:visited {
+			color: #37608F; TEXT-DECORATION: none
+		}
+
+		#body a:hover,
+		#body a:focus,
+		#body a:active {
+			color: #37608F; TEXT-DECORATION: underline
+		}
+
+		/* Footer with Contact Info */
+		
+		#ft a:link,
+		#ft a:visited {
+			color: #fecea8;
+		}
+
+		#ft a:hover,
+		#ft a:focus,
+		#ft a:active {
+			color: #ffffff;
+		}
+
+		/* Nav Menu */
+		
+		ul#mainNav li a:link,
+		ul#mainNav li a:visited {
+			font-family: Helvetica, Arial, sans-serif;
+			color: #ffffff;
+			font-size: 1.2em;
+		}
+
+/* BACKGROUNDS -------- */
+
+		body {
+			background-color: #5391aa;
+		}
+
+		#doc {
+			background-color: #e9ead3;
+		}
+
+		#bd {
+			background-color: #f5f5eb;
+		}
+
+		#hd {
+			background-color: #e9ead3;
+			background-image: url(http://us.i1.yimg.com/us.yimg.com/lib/smb/assets/hosting/yss/themes/riverside/whisper/images/en-us/hd_1.2.gif);
+			background-repeat:repeat-x;
+		}
+
+		#navigation {
+			background-color: #5391aa;
+		}
+
+		#mainNav {
+			background-color: #5391aa;
+		}
+
+		#doc {
+
+		}
+
+		#navigation ul#mainNav li.active a {
+			background-color:#37628f;
+		}
+
+		ul#mainNav li a:hover,
+		ul#mainNav li a:active,
+		ul#mainNav li a:focus {
+			background-color: #37628f;
+		}
+
+		#zWrap {
+
+		}
+
+		#ft {
+			background-color: #5391aa;
+		}
+
+/* BORDERS --------------- */
+
+		#hd {
+			border-bottom: 1px solid #ffffff;
+		}
+
+		#bd {
+			border:2px solid #dad9cd;
+		}
+
+		#navigation {
+			border-top:1px solid #37628f;
+			border-bottom:1px solid #37628f;
+		}
+
+		ul#mainNav li.active {
+			border:1px inset #37628f;
+			border-bottom:0;
+			border-top:0;
+		}
+
+		#ft {
+			border-top:1px solid #37628f;
+		}
+
+/* END -> CUSTOMIZATION SECTION */
