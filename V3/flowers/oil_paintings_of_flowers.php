@@ -90,8 +90,8 @@
 
 				     <div class="row">   
          <div class="col-lg-12">
-                  <a href="tulips_in_hopi_pot.html"><img src="<?php echo $base_url; ?>_images/tulips_in_hopi_pot_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-      <h3><a href="tulips_in_hopi_pot.html">Tulips in hopi pot</a></h3>
+                  <a href="tulips_in_hopi_pot.php"><img src="<?php echo $base_url; ?>_images/tulips_in_hopi_pot_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+      <h3><a href="tulips_in_hopi_pot.php">Tulips in hopi pot</a></h3>
 	  	<p>Oil Painting<br>Floral still life<br>Emma Fordyce MacRae 1887 - 1974</p>
               </div>
               </div>  
