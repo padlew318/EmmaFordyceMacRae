@@ -81,9 +81,9 @@
                 
                 <div class="row">
                     <div class="col-lg-12">
-                       <a href="central_park_boating_lake.html">
+                       <a href="central_park_boating_lake.php">
                        <img src="<?php echo $base_url; ?>_images/central_park_boating_lake_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-                       <h3><a href="central_park_boating_lake.html">central_park_boating_lake</a></h3>
+                       <h3><a href="central_park_boating_lake.php">central_park_boating_lake</a></h3>
                        <p> Oil Painting<br>
                            Europe Landscape<br>
                            Emma Fordyce MacRae 1887 - 1974 </p>

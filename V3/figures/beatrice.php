@@ -1,1 +1,53 @@
-<!DOCTYPE html><html><head><title>Emma Fordyce MacRae</title><meta charset="UTF-8"><meta name="DESCRIPTION" content=""><meta name="KEYWORDS" content="Emma Fordyce MacRae">	<!--#include virtual="header.html" --></head><body><div id="body"><div id="doc"><div xmlns="" id="hd"><div id="hContent"><div id="headerContent" class="editorWrap"><div id="headerZoneElement" class="editable rte flexContent" rel="itemGuid.sit.hc.001"><h1>Emma Fordyce MacRae</h1></div></div></div></div><div id="wrapper">	<!--#include virtual="menu.html" -->    <div id="bd"><div id="pageName"><h2 style="text-align: left">Beatrice</h2><h3>Emma Fordyce MacRae</h3></div><div id="zWrap"><div id="zA"><div class="modWrap">	<span style="text-align: left"><img height="345" width="261" src="http://www.emmafordycemacrae.com/images/beatrice.jpg" alt="Painting of Beatrice" class="yssDKImg yssImg yssImgE yssAstImg_itemGuid.4c2773f8773c78.17151474_2098X1556 yssImg_allowZoomIn yssDKImg_alignNone" /></span>	<p>In Beatrice, the rich pattern of the sitter’s blue and red dress and her copper hair are set against a muted palette of olives and browns. There mayor may not be an underlying theme here relating to Italy or Italian history as the domedstructure visible through the window in the background resembles the church of SantaMaria della Salute in Venice (which MacRae also painted), and makes a connection to theMadonna sculpture. Beatrice’s name is associated with the Renaissance; she was theBeatrice beloved of the poet Dante. Even the anemones in the bowl grow wild in thefields outside Rome. As one critic wrote about this painting, “It is possible to distinguisha relation to the great Perugino, Raphael’s master.”18 At the same time, though, Beatrice’sdress and hairstyle put her in the twentieth century. Rather than giving the composition adated feeling, however, this back and forth between the contemporary and the historicagain creates timelessness in Emma Fordyce MacRae’s work.</p>		<noscript><div class="javawarning"><strong>JavaScript must be enabled in order for you to use some of the features on this page.</strong><br>However, it seems JavaScript is either disabled or not supported by your browser.<br>Please enable JavaScript by changing your browser options, and then try again.</div></noscript>	</div></div><div id="zB"><div class="modWrap"></div></div><div id="zC"><div class="modWrap"></div></div></div></div></div><!--#include virtual="footer.html" --></div>    </div><script type="text/javascript" src="http://us.yimg.com/lib/smb/assets/hosting/yss/extensions/js/mc_yss_extensions.144201.js"></script><!--#include virtual="gstats.html" -->  </body></html>
+<?php
+    $description = 'Emma Fordyce MacRae 20th Century American Artist painter of original oil paintings, subjects painted include boats, flowers,figures and landscapes.';
+    $keywords = 'Emma Fordyce MacRae, american artist, boat oil painting, flower oil painting, figure oil painting';
+    $title = 'Beatrice | Emma Fordyce MacRae 20th Century American Artist';
+    require ('../_includes/bs_header.php');
+    require ('../_includes/bs_nav.php');
+  ?>
+<div class="container">
+    
+    <div class="row">
+        <div class="pagetitle col-lg-12">
+            <h1>Beatrice</h1>
+            <h2>Emma Fordyce MacRae 20th Century American Artist</h2>
+        </div>
+    </div>
+            
+    <hr />
+            
+    <div class="row">
+         <div class="col-lg-4 col-md-3 col-sm-2">
+                <a href="<?php echo $base_url; ?>_images/beatrice.jpg" alt="Beatrice" data-lightbox="Beatrice" data-caption="Beatrice"> 
+                <img src="<?php echo $base_url; ?>_images/beatrice.jpg" alt="Beatrice" data-lightbox="Beatrice" data-caption="Beatrice" class="img-responsive img-thumbnail"></a>
+          </div>
+          <p>In Beatrice, the rich pattern of the sitter's blue and red dress and her copper hair are set against a muted palette of olives and browns. There may
+            or may not be an underlying theme here relating to Italy or Italian history as the domed
+            structure visible through the window in the background resembles the church of Santa
+            Maria della Salute in Venice (which MacRae also painted), and makes a connection to the
+            Madonna sculpture. Beatrice's name is associated with the Renaissance; she was the
+            Beatrice beloved of the poet Dante. Even the anemones in the bowl grow wild in the
+            fields outside Rome. As one critic wrote about this painting, "It is possible to distinguish
+            a relation to the great Perugino, Raphael's master." 18 At the same time, though, Beatrice's
+            dress and hairstyle put her in the twentieth century. Rather than giving the composition a
+            dated feeling, however, this back and forth between the contemporary and the historic
+            again creates timelessness in Emma Fordyce MacRae's work.</p>	
+    </div>
+    
+    <hr />
+            
+    <div class="row">
+         <div class="col-lg-12">  
+			<p>Beatrice<br>Oil Painting<br>Figurative composition<br>Emma Fordyce MacRae 1887 - 1974</p>
+		</div>
+
+    </div>
+    
+    <hr />
+   
+</div> <!-- /container -->
+
+<!-- FOOTER -->
+<?php
+require ('../_includes/bs_footer.php');
+?>

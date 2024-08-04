@@ -27,10 +27,7 @@
             
     <div class="row">
          <div class="col-lg-12">  
-			<p>Central Park in April<br>
-            Oil Painting<br>
-            New York Landscape<br>
-            Emma Fordyce MacRae 1887 - 1974</p>
+			<p>Central Park in April<br>Oil Painting<br>New York Landscape<br>Emma Fordyce MacRae 1887 - 1974</p>
 		</div>
     </div>
     

@@ -18,11 +18,20 @@
     
     <div class="row">
         <div class="col-lg-12">
-            <a href="<?php echo $base_url; ?>figures/beatrice.html">
-            <img src="<?php echo $base_url; ?>_images/cape_ann_landscapes_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-            <h3><a href="<?php echo $base_url; ?>figures/beatrice.html">Beatrice</a></h3>
-            <p> Emma Fordyce MacRae is known for her original oil paintings of landscapes, boats, flowers, reflections in the water and docks. She painted in New England, New York and Europe. The Cape Ann Landscapes Tour includes paintings of Cape Ann, MA. </p>
-         </div>
+            <a href="<?php echo $base_url; ?>figures/beatrice.php">
+            <img src="<?php echo $base_url; ?>_images/beatrice_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+            <h3><a href="<?php echo $base_url; ?>figures/beatrice.php">Beatrice</a></h3>
+        </div>
+     </div>
+            
+    <hr />
+
+    <div class="row">
+        <div class="col-lg-12">
+            <a href="<?php echo $base_url; ?>figures/before_the_song.php">
+            <img src="<?php echo $base_url; ?>_images/before_the_song_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+            <h3><a href="<?php echo $base_url; ?>figures/before_the_song.php">Before the Song</a></h3>
+        </div>
      </div>
             
     <hr />

@@ -44,14 +44,15 @@
                             <li><a href="<?php echo $base_url; ?>landscapes/oil_paintings_of_landscapes.php">Oil paintings of Landscapes</a>
                                 <ul>
                                     <li><a href="<?php echo $base_url; ?>landscapes/central_park_in_april.php">Central Park in April</a></li>
-                                    <li><a href="<?php echo $base_url; ?>landscapes/central_park_boating_lake.html">Central Park Boating Lake</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/central_park_boating_lake.php">Central Park Boating Lake</a></li>
                                     <li><a href="<?php echo $base_url; ?>landscapes/europe.php">Europe</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/halfmoon_beach.php">Halfmoon Beach</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/main_street.php">Main Street, Gloucester MA</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/rockport_beach.php">Rockport Beach</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/stage_fort_park.php">Stage Fort Park</a></li>
                                     <li><a href="<?php echo $base_url; ?>landscapes/venice.php">Venice</a></li>
                                     <li><a href="<?php echo $base_url; ?>landscapes/victory_girls.php">Victory Girls</a></li>
-                                    <li><a href="<?php echo $base_url; ?>landscapes/rockport_beach.php">Rockport Beach</a></li>
-                                    <li><a href="<?php echo $base_url; ?>landscapes/main_street.php">Main Street, Gloucester MA</a></li>
-                                    <li><a href="<?php echo $base_url; ?>landscapes/halfmoon_beach.php">Halfmoon Beach</a></li>
-                                    <li><a href="<?php echo $base_url; ?>landscapes/stage_fort_park.php">Stage Fort Park</a></li>
+                                    <li><a href="<?php echo $base_url; ?>landscapes/new_england_swimmers.php">New England Swimmers</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -60,16 +61,17 @@
                             <li><a href="<?php echo $base_url; ?>flowers/oil_paintings_of_flowers.php">Oil paintings of Flowers</a>
                                 <ul>
                                     <li><a href="<?php echo $base_url; ?>flowers/amaryllis.php">Amaryllis</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/anemonies_in_barking_dog_bowl.php">Anemonies in Barking Dog Bowl</a></li>
                                     <li><a href="<?php echo $base_url; ?>flowers/bird_of_paradise.php">Birds of Paradise</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/cosmos_decoration.html">cosmos_decoration</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/cosmos_decoration.php">cosmos_decoration</a></li>
                                     <li><a href="<?php echo $base_url; ?>flowers/daffodils_in_white_bowl.php">Daffodils in White Bowl</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/dogwood_with_madonna.html">dogwood_with_madonna</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/foxgloves_in_cliss_pot.html">foxgloves_in_cliss_pot</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/dogwood_with_madonna.php">Dogwood with Madonna</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/foxgloves_in_cliss_pot.php">Foxgloves in Cliss Pot</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/gloucester_garden.php">Gloucester Garden</a></li>
                                     <li><a href="<?php echo $base_url; ?>flowers/orange_lilies.php">Orange Lilies</a></li>
                                     <li><a href="<?php echo $base_url; ?>flowers/the_lily.php">The Lily</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/tulips_in_hopi_pot.html">tulips_in_hopi_pot</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/zinias_with_vermeer.php">zinias_with_vermeer</a></li>
-                                    <li><a href="<?php echo $base_url; ?>flowers/gloucester_garden.php">Gloucester Garden</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/tulips_in_hopi_pot.php">Tulips in Hopi Pot</a></li>
+                                    <li><a href="<?php echo $base_url; ?>flowers/zinias_with_vermeer.php">Zinias with Vermeer</a></li>
                                 </ul>
                             </li>
                         </ul>
@@ -80,17 +82,21 @@
                         <ul>
                             <li><a href="<?php echo $base_url; ?>figures/oil_paintings_of_figures.php">Oil paintings of Figures</a>
                                 <ul>
-                                    <li><a href="<?php echo $base_url; ?>figures/beatrice.html">beatrice.html</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/before_the_song.html">before_the_song.html</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/distant_mountains.html">distant_mountains.html</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/5oclock.php">Five o'clock</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/beatrice.php">Beatrice</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/before_the_song.php">Before the Song</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/distant_mountains.php">Distant Mountains</a></li>
                                     <li><a href="<?php echo $base_url; ?>figures/elizabeth.php">Elizabeth</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/italian_girl.html">Italian Girl</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/italian_girl.php">Italian Girl</a></li>
                                     <li><a href="<?php echo $base_url; ?>figures/leonore.php">Leonore</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/leonore_in_red.php">Leonore_in_red.php</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/long_tailed_parrot.html">long_tailed_parrot.html</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/leonore_in_red.php">Leonore in Red</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/leonore_in_white.php">Leonore in White</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/long_tailed_parrot.php">Long Tailed Parrot</a></li>
                                     <li><a href="<?php echo $base_url; ?>figures/sonya.php">Sonya</a></li>
-                                    <li><a href="<?php echo $base_url; ?>figures/stelka.html">Stelka</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/stelka.php">Stelka</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/ruth.php">Ruth</a></li>
                                     <li><a href="<?php echo $base_url; ?>figures/ruth_goldfarb_with_green_fascinator.php">Ruth Goldfarb with Green Fascinator</a></li>
+                                    <li><a href="<?php echo $base_url; ?>figures/the_virgin.php">The Virgin</a></li>
                                 </ul>
                             </li>
                         </ul>

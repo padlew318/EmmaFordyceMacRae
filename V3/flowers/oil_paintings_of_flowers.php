@@ -36,8 +36,8 @@
 
 				     <div class="row">   
          <div class="col-lg-12">
-                  <a href="cosmos_decoration.html"><img src="<?php echo $base_url; ?>_images/cosmos_decoration_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-      <h3><a href="cosmos_decoration.html">Cosmos Decoration</a></h3>
+                  <a href="cosmos_decoration.php"><img src="<?php echo $base_url; ?>_images/cosmos_decoration_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+      <h3><a href="cosmos_decoration.php">Cosmos Decoration</a></h3>
 	  	<p>Oil Painting<br>Floral still life<br>Emma Fordyce MacRae 1887 - 1974</p>
               </div>
               </div> 
@@ -54,8 +54,8 @@
 
 				     <div class="row">   
          <div class="col-lg-12">
-                  <a href="dogwood_with_madonna.html"><img src="<?php echo $base_url; ?>_images/dogwood_with_madonna_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-      <h3><a href="dogwood_with_madonna.html">Dogwood with madonna</a></h3>
+                  <a href="dogwood_with_madonna.php"><img src="<?php echo $base_url; ?>_images/dogwood_with_madonna_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+      <h3><a href="dogwood_with_madonna.php">Dogwood with madonna</a></h3>
 	  	<p>Oil Painting<br>Floral still life<br>Emma Fordyce MacRae 1887 - 1974</p>
               </div>
               </div>  
@@ -63,8 +63,8 @@
 
 				     <div class="row">   
          <div class="col-lg-12">
-          <a href="foxgloves_in_cliss_pot.html"><img src="<?php echo $base_url; ?>_images/foxgloves_in_cliss_pot_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-      <h3><a href="foxgloves_in_cliss_pot.html">Foxgloves in cliss pot</a></h3>
+          <a href="foxgloves_in_cliss_pot.php"><img src="<?php echo $base_url; ?>_images/foxgloves_in_cliss_pot_thumb.jpg" class="left img-responsive img-thumbnail"></a>
+      <h3><a href="foxgloves_in_cliss_pot.php">Foxgloves in cliss pot</a></h3>
 	  	<p>Oil Painting<br>Floral still life<br>Emma Fordyce MacRae 1887 - 1974</p>
               </div>
               </div> 
@@ -82,7 +82,7 @@
 				     <div class="row">   
          <div class="col-lg-12">
                   <a href="the_lily.php"><img src="<?php echo $base_url; ?>_images/the_lily_thumb.jpg" class="left img-responsive img-thumbnail"></a>
-      <h3><a href="the_lily.html">The Lily</a></h3>
+      <h3><a href="the_lily.php">The Lily</a></h3>
 	  	<p>Oil Painting<br>Floral still life<br>Emma Fordyce MacRae 1887 - 1974</p>
               </div>
               </div> 
